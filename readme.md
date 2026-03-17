@@ -8,10 +8,14 @@ This repository contains my foundational practice scripts while learning scikit-
 
 2. Ridge & Lasso Regularization (L1/L2)
 
-3. Logistic Regression (Classification)
+3. Logistic Regression
 
-4. Decision Tree (Classification + Regression)
+4. Decision Tree
 
-5. Model evaluation using Train/Test split, MSE, and Accuracy scores.
+5. KKN
+
+6. Native Baye's
+
+7. Model evaluation using Train/Test split, MSE, and Accuracy scores, plots.
 
 *Note*: These are basic implementations on dummy arrays to master the syntax and logic before moving to real-world datasets.
