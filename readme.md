@@ -1,6 +1,6 @@
 ## Machine Learning Practice Repository
 
-This repository contains my foundational practice scripts while learning scikit-learn and machine learning algorithms.
+This repository contains my foundational practice scripts while learning scikit-learn and machine learning algorithms. All of these topics revolve around Student score prediction examples.
 
 ## Topics covered so far:
 
