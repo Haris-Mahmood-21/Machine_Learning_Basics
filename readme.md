@@ -16,6 +16,18 @@ This repository contains my foundational practice scripts while learning scikit-
 
 6. Native Baye's
 
-7. Model evaluation using Train/Test split, MSE, and Accuracy scores, plots.
+7. Random Forest
+
+8. SVM
+
+9. XgBoost
+
+10. K_means Clustering
+
+11. Hierarchical_Clustering
+
+12. DBscan_Clustering
+
+13. Model evaluation using Train/Test split, MSE, and Accuracy scores,silhouette_score, plots.
 
 *Note*: These are basic implementations on dummy arrays to master the syntax and logic before moving to real-world datasets.
