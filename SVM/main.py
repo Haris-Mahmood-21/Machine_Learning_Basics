@@ -4,7 +4,7 @@ import numpy as np
 X = np.array ( [[1, 2], [2, 3], [8, 9], [9, 10]] )
 y = np.array ([0, 0, 1, 1])
 
-svm_model = SVC(kernal = 'linear')
+svm_model = SVC(kernel= 'linear')
 svm_model.fit(X,y)
 
 new_data = [[7, 8]]
